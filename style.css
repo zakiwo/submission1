@@ -30,6 +30,7 @@ main {
 }
 
 .step-num {
+  padding: 3px;
   background-color: #ff9a4b;
   color: #fff;
   position: absolute;
